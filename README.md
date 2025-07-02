@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Irfan-Hossain-code
 - 👀 I’m interested in elevating my skills as a programmer by developing personal projects.
-- 🌱 I’m currently learning web development and SQL
-- ⚡ Fun fact: I know about 8 programming languages and, as many programmers, I enjoy bouldering
+- 🌱 I’m currently learning web development and further developing my C++ skills.
+- ⚡ Fun fact: I know about 10 programming languages and, as many programmers, I enjoy bouldering
